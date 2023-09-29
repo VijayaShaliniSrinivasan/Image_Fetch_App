@@ -1,0 +1,41 @@
+.navbar
+{
+    background-color:rgb(174, 50, 87)
+   
+}
+#navs12{
+   
+    position: fixed;
+    z-index: 1;
+}
+.h
+{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0px 20px;
+}
+.logo
+{
+    color: white ;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+span
+{
+    color: black;
+    font-size: 28px;
+}
+.navs
+{
+    color: black !important;
+    border: none !important;
+    background-color:white ;
+    box-shadow: none !important;
+    padding: 0px 5px;
+}
+.h12{
+    margin-top: 80px;
+    text-align: center;
+    font-size: 35px;
+}
